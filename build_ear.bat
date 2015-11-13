@@ -1,0 +1,1 @@
+jar cvfM ./dist/applic.ear ./META-INF/* -C ./client/dist . -C ./ejb/dist .
